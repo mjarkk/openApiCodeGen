@@ -1,4 +1,4 @@
-# `openApiCodeGen` Generate a minimal javascript from a swagger file
+# `openApiCodeGen` Generate minimal javascript from a swagger file
 Made for swagger v2 and outputs javascript that just calles a helper function for fetching the data 
 
 ## How to use
